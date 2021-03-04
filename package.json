@@ -29,7 +29,7 @@
     "lodash.keys": "^4.2.0",
     "lodash.omit": "^4.5.0",
     "lodash.pick": "^4.4.0",
-    "postscribe": "^2.0.8",
+    "postscribe": "https://github.com/Goues/postscribe#write-async",
     "prop-types": "^15.6.2"
   },
   "devDependencies": {
